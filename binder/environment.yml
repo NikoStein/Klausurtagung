@@ -1,0 +1,11 @@
+dependencies:
+  - matplotlib
+  - seaborn
+  - numpy
+  - pandas
+  - rpy2
+  - pip
+  - pip:
+      - julia
+      
+  
